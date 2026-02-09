@@ -1,0 +1,13 @@
+LocalizationLanguageSettings
+{
+    "DisplayName": "French",
+    "Icon": {
+        "m_Asset": {
+            "m_FileID": 0,
+            "m_PathID": 0
+        },
+        "m_Ref": {
+            "ContentPath": ""
+        }
+    }
+}

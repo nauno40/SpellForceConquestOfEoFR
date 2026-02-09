@@ -1,0 +1,109 @@
+{
+    "MaximumVersion": {
+        "mMajor": 0,
+        "mMinor": 0,
+        "mPatch": 0
+    },
+    "MinimumVersion": {
+        "mMajor": 0,
+        "mMinor": 0,
+        "mPatch": 0
+    },
+    "HardDependencies": [
+        {
+            "Package": "com.ownedbygravity.sf.base",
+            "MinimumVersion": {
+                "mMajor": 0,
+                "mMinor": 0,
+                "mPatch": 0
+            },
+            "MaximumVersion": {
+                "mMajor": 0,
+                "mMinor": 0,
+                "mPatch": 0
+            }
+        }
+    ],
+    "SoftDependencies": [
+        {
+            "Package": "com.ownedbygravity.sf.free1",
+            "MinimumVersion": {
+                "mMajor": 0,
+                "mMinor": 0,
+                "mPatch": 0
+            },
+            "MaximumVersion": {
+                "mMajor": 0,
+                "mMinor": 0,
+                "mPatch": 0
+            }
+        },
+        {
+            "Package": "com.ownedbygravity.sf.dlc1",
+            "MinimumVersion": {
+                "mMajor": 0,
+                "mMinor": 0,
+                "mPatch": 0
+            },
+            "MaximumVersion": {
+                "mMajor": 0,
+                "mMinor": 0,
+                "mPatch": 0
+            }
+        },
+        {
+            "Package": "com.ownedbygravity.sf.dlc2",
+            "MinimumVersion": {
+                "mMajor": 0,
+                "mMinor": 0,
+                "mPatch": 0
+            },
+            "MaximumVersion": {
+                "mMajor": 0,
+                "mMinor": 0,
+                "mPatch": 0
+            }
+        },
+        {
+            "Package": "com.ownedbygravity.sf.dlc3",
+            "MinimumVersion": {
+                "mMajor": 0,
+                "mMinor": 0,
+                "mPatch": 0
+            },
+            "MaximumVersion": {
+                "mMajor": 0,
+                "mMinor": 0,
+                "mPatch": 0
+            }
+        },
+        {
+            "Package": "com.ownedbygravity.sf.dlc4",
+            "MinimumVersion": {
+                "mMajor": 0,
+                "mMinor": 0,
+                "mPatch": 0
+            },
+            "MaximumVersion": {
+                "mMajor": 0,
+                "mMinor": 0,
+                "mPatch": 0
+            }
+        }
+    ],
+    "Requires": {
+        "mPlatformSpecific": []
+    },
+    "ReferenceColor": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 0.0
+    },
+    "ReferenceCategory": "",
+    "IsDependencyForSavegames": false,
+    "references": {
+        "version": 2,
+        "RefIds": []
+    }
+}
